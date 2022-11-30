@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\bin\Debug\netstandard1.4\InspectorLib.deps.json
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\bin\Debug\netstandard1.4\InspectorLib.dll
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\bin\Debug\netstandard1.4\InspectorLib.pdb
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\obj\Debug\netstandard1.4\InspectorLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\obj\Debug\netstandard1.4\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\obj\Debug\netstandard1.4\InspectorLib.AssemblyInfo.cs
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\obj\Debug\netstandard1.4\InspectorLib.dll
+C:\Users\User\source\repos\AndreevInspector\InspectorLib\obj\Debug\netstandard1.4\InspectorLib.pdb
